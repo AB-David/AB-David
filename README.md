@@ -1,4 +1,4 @@
-![I like to build cool stuff](https://res.cloudinary.com/ab-d/image/upload/v1611711806/Project_Capture_4_mzxssv.jpg)
+![I like to build cool stuff](https://res.cloudinary.com/ab-d/image/upload/v1611723035/Ab-dCoolStuff_cqrrog.jpg)
 
 Hey everyone, I'm David! an aspiring Software Engineer. Born and raised in Tel Aviv, Israel, moved to the USA after college and joined world class companies as an analytical thinker. I enjoy coding and learning about pretty much everything. 
 
