@@ -4,5 +4,5 @@ Hey everyone, I'm David! an aspiring Software Engineer. Born and raised in Tel A
 
 In my spare time I create music and podcast about healthy self optimization habits.
 
-## If you like this and don't want to miss out, follow me around the web 🌎:
+## If you like this, don't want to miss out, follow me around the web 🌎
 I blog on my page at [Medium](https://medium.com/@david.abadi) and [Twitter](https://twitter.com/D4VID_ABADI) sharing updates on [LinkedIn](https://www.linkedin.com/in/davidabadi/) and [GitHub](https://github.com/AB-David)
